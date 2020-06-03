@@ -24,8 +24,3 @@ while True:
         print("もっとでかいぜ")
     else:
         print("もっと小さいぜ")
-
-    
-
-
-
