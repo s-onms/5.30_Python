@@ -2,7 +2,7 @@
 
 import random
 # ランダムを導入
-answer = random.randint(1,15)
+answer = random.randint(1,20)
 # ランダム範囲を指定
 count = 0
 # カウントを定義
@@ -24,15 +24,4 @@ while True:
         print("もっとでかいぜ")
     else:
         print("もっと小さいぜ")
-
-
-
-
-
-
-
-
-    
-
-
 
