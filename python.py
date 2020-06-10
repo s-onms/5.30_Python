@@ -25,6 +25,13 @@ while True:
     else:
         print("もっと小さいぜ")
 
+
+
+
+
+
+
+
     
 
 
